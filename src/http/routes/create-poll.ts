@@ -20,7 +20,7 @@ export async function createPoll(app: FastifyInstance) {
               return {
                 title: option
               }
-            }),
+            })
           }
         }
       },
