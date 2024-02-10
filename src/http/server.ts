@@ -1,6 +1,6 @@
 import fastify from "fastify"
 import { createPoll } from "./routes/create-poll"
-import { getPoll, getPoll } from "./routes/get-poll"
+import { getPoll } from "./routes/get-poll"
 import { voteOnPoll } from "./routes/vote-on-poll"
 
 const app = fastify()
