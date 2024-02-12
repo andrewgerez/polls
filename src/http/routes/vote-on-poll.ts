@@ -83,6 +83,6 @@ export async function voteOnPoll(app: FastifyInstance) {
       votes: Number(votes),
     });
 
-    return reply.status(201).send();
+    return reply.status(201).send({ message: 'Vote successfully cast.' });
   });
 }
