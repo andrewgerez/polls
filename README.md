@@ -34,6 +34,7 @@ API developed with Node.js, Fastify and Prisma. 🤖
 ### Built With
 
 This project was developed using the following technologies:
+* [![Node][Node.js]][Node-url]
 
 
 ## Getting Started
@@ -73,8 +74,8 @@ Andrew Gerez - [Linkedin](https://www.linkedin.com/in/andrewgerez/) - andrewgere
 
 Project Link: [https://github.com/andrewgerez/polls](https://github.com/andrewgerez/polls)
 
-[Node.js]: https://nodejs.org/
-[Node-url]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+[Node.js]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+[Node-url]: https://nodejs.org/
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
